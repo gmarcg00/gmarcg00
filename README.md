@@ -13,7 +13,7 @@
 **About me**
 
 <img align='right' src="https://i.imgur.com/i2C6V2G.png" width="230" style="border-radius: 50%;">
-<p>Hi, I'm a Software Developer graduated from University of León, Spain🚀, in 2023. After that, I started studying a master's degree in software engineering and computer systems at UNIR.</p>
+<p>Hi, I'm a Software Developer graduated from University of León, Spain🚀, in 2023. After that, I started studying a Master's degree in Software Engineering and Computer Systems at UNIR.</p>
   
 **Talking about Personal Stuffs**
 
