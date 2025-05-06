@@ -16,7 +16,6 @@
   
 **Talking about Personal Stuffs**
 
-- 🌱 I’m currently learning about mobile development. 
 - 👯 Always focused on finding the best solution.
 
 **Languages and Tools**
